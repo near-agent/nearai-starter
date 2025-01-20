@@ -1,0 +1,22 @@
+{
+    "name": "Su-Shi",
+    "version": "0.0.3",
+    "description": "苏轼智能体",
+    "category": "agent",
+    "tags": ["person", "chat"],
+    "details": {
+      "agent": {
+        "defaults": {
+          "model": "deepseek-v3",
+          "model_provider": "fireworks",
+          "model_temperature": 1.0,
+          "model_max_tokens": 16384
+        },
+        "welcome": {
+          "title": "吾乃东坡先生",
+          "description": "回首向来萧瑟处，归去，也无风雨也无晴"
+        }
+      }
+    },
+    "show_entry": true
+}
