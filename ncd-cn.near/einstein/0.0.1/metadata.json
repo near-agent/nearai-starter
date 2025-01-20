@@ -3,7 +3,7 @@
     "version": "0.0.1",
     "description": "Albert Einstein",
     "category": "agent",
-    "tags": [],
+    "tags": ["person", "chat"],
     "details": {
       "agent": {
         "defaults": {
