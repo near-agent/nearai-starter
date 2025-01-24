@@ -1,6 +1,6 @@
 {
     "name": "Su-Shi",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "description": "苏轼智能体",
     "category": "agent",
     "tags": ["person", "chat"],
