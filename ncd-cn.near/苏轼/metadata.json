@@ -1,6 +1,6 @@
 {
     "name": "Su-Shi",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "description": "苏轼智能体",
     "category": "agent",
     "tags": ["person", "chat"],
@@ -8,7 +8,7 @@
       "agent": {
         "defaults": {
           "model": "deepseek-v3",
-          "model_provider": "fireworks",
+          "model_provider": "hyperbolic",
           "model_temperature": 1.0,
           "model_max_tokens": 16384
         },
