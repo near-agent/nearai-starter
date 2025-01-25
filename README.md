@@ -1,4 +1,4 @@
-# near-ai-starter
+# nearai-starter
 NEAR AI Starter
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/think-in-universe/nearai-starter)
@@ -28,7 +28,7 @@ NEAR_ACCOUNT=<your-near-account>  # e.g. alice.near
 
 ```bash
 git clone https://github.com/think-in-universe/nearai-starter
-cd near-ai-starter
+cd nearai-starter
 
 # Rename the folder ncd-cn.near to your NEAR account
 mv ncd-cn.near $NEAR_ACCOUNT
