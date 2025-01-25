@@ -1,7 +1,7 @@
 # near-ai-starter
 NEAR AI Starter
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/think-in-universe/near-ai-starter)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/think-in-universe/nearai-starter)
 
 ## Install
 
@@ -27,7 +27,7 @@ NEAR_ACCOUNT=<your-near-account>  # e.g. alice.near
 ## Clone the repo
 
 ```bash
-git clone https://github.com/think-in-universe/near-ai-starter
+git clone https://github.com/think-in-universe/nearai-starter
 cd near-ai-starter
 
 # Rename the folder ncd-cn.near to your NEAR account
